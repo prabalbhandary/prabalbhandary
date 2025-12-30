@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- Animated typing text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things!+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Laravel+%7C+PHP+Developer;Building+Modern+Web+Applications;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+New+Things!+%F0%9F%93%9A" alt="Typing SVG" />
   
 </div>
 
@@ -29,17 +29,18 @@
 const prabal = {
     location: "Kathmandu, Nepal 🇳🇵",
     role: "Full Stack MERN Developer",
-    code: ["JavaScript", "Python", "HTML", "CSS"],
+    code: ["JavaScript", "PHP", "Python", "HTML", "CSS"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
             css: ["Tailwind CSS", "Bootstrap"]
         },
         backEnd: {
-            js: ["Node.js", "Express.js"]
+            js: ["Node.js", "Express.js"],
+            php: ["Laravel"]
         },
         databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"]
+        tools: ["Git", "GitHub", "VS Code", "Postman", "Composer"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() 😄"
@@ -65,6 +66,8 @@ const prabal = {
 ### ⚙️ Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### 🗄️ Database
@@ -76,6 +79,7 @@ const prabal = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </div>
@@ -160,6 +164,7 @@ const prabal = {
 
 - 🚀 Master advanced React patterns and performance optimization
 - 🌐 Build and deploy 5+ full-stack MERN applications
+- 🎨 Develop Laravel-based REST APIs and web applications
 - 📚 Contribute to open-source projects
 - 🎨 Improve UI/UX design skills
 - 🤝 Collaborate with other developers
