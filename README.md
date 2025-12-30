@@ -103,7 +103,7 @@ const prabal = {
 ## 🐍 Watch the Snake eat my contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prabalbhandary/prabalbhandary/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/prabalbhandary/prabalbhandary/output/github-contribution-grid-snake-dark.svg](https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)" alt="Snake animation" />
 </div>
 
 <br/>
